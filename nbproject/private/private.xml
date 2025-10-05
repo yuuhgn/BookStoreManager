@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/model/Book.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/dao/BookDAO.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/service/BookService.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/view/BookPanel.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/view/MainFrame.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/model/Customer.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/service/CustomerService.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/view/CustomerPanel.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/dao/OrderDetailDAO.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/model/Order.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/model/OrderDetail.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/service/OrderService.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/util/DBConnection.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/view/OrderPanel.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/main/App.java</file>
+            <file>file:/C:/Users/Huy/Documents/NetBeansProjects/Book%20Management/src/util/TestConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
